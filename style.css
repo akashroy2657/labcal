@@ -1,0 +1,28 @@
+body{
+    
+}
+.container{
+    height: 850px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    background: #000;
+    color:white;
+}
+#tab{
+    width: 300px;
+    background: aqu;
+}
+#tab h4,input{
+    margin-bottom: 15px;
+}
+#result{
+    font-size: 25px;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+
